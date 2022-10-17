@@ -8,6 +8,8 @@ namespace ProyectoCancha
         {
             Console.WriteLine("Hello World!");
             Console.ReadKey();
+
+            //Prueba de modifiación desde vscode (hidalgo)
         }
     }
 }
